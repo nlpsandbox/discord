@@ -226,7 +226,6 @@ The NLP Sandbox enables developers to submit their NLP Tools for continuous benc
 
 We are currently using [Synapse](https://www.synapse.org/) to manage the evaluation submissions. If you have any issues with a submission, please open a ticket on the [NLP Sandbox Synapse discussion forum](https://www.synapse.org/#!Synapse:syn22277123/discussion/default).
 
-
 <!-- Definitions -->
 
 [NLP Sandbox Discord Server Template]: https://discord.new/KyH9ZBWeD4x8
